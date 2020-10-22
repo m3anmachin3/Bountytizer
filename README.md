@@ -1,0 +1,2 @@
+# Bountytizer
+Bug bounty tool
